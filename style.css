@@ -158,6 +158,21 @@ max-width: 60px;
     background: #017143;
     clip-path:circle(600px at right 800px) ;
 }
+.navbar a{
+    float: right;
+    display:block;
+    color:#017143;
+    text-align: center;
+    padding:14px 16px;
+    text-decoration: none;
+}
+.navbar a:hover {
+    background:#017143;
+    color:white;
+}
+.main{
+    margin-top: 30px;
+}
 
 
 
